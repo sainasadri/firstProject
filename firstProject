@@ -1,0 +1,238 @@
+fristProject
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shahrdari</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+  <div class="header">
+    <div class="right">
+        <p>سازمان بازنشتگی تهران</p>
+    </div>
+    <div class="headermain">
+        <p>بسمه تعالی</p>
+        <p>حکم حقوق و مزایا</p>
+    </div>
+    <div class="left">
+        <div class="left1">
+            <p>QR</p>
+            <p>CODE</p>
+        </div>
+        <div class="left2">
+            <span>سریال حکم:</span>
+        </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <div class="main">
+      <div class="table">
+         <div class="item1 center">مشخصات فردی</div>
+        </div>
+          <div class="table">
+          <div class="item1">کد ملی:</div>
+          <div class="item1">نام خانوادگی:</div>
+          <div class="item1">نام:</div>
+          <div class="item1">شماره بازنشستگی:</div>
+          </div>
+          <div class="table">
+          <div class="item1">شماره شناسنامه:</div>
+          <div class="item1">نام پدر:</div>
+          <div class="item1">تاریخ تولد:</div>
+          <div class="item1">محل تولد:</div>
+          </div>
+          <div class="table">
+          <div class="item1">جنسیت:</div>
+          <div class="item1">تعداد فرزندان:</div>
+          <div class="item1">تعداد افراد تحت تکفل:</div>
+          <div class="item1">کد درمانی:</div>
+          </div>
+          <div class="table">
+          <div class="item1">وضعیت تاهل:</div>
+          <div class="item1">کد پستی:</div>
+          </div>
+          <div class="checkbox1">
+          <div class="item1">وضعیت ایثارگری: 
+            <label><input type="radio" name="radio">خانواده شهید </label>  
+            <label><input type="radio" name="radio"> جانباز</label>  
+            <label><input type="radio" name="radio"> آزاده</label>  
+            <label><input type="radio" name="radio"> رزمنده</label>  
+            <label><input type="radio" name="radio"> شهید</label>  
+            <label><input type="radio" name="radio"> فرزند شهید</label>  
+          </div>
+          </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="main"></div>
+      <div class="table">
+         <div class="item-1 center">مشخصات پرسنلی</div>
+        </div>
+          <div class="table">
+          <div class="item-1">تاریخ بازنشستگی:</div>
+          <div class="item-1">آخرین پست سازمانی:</div>
+          <div class="item-1">آخرین محل خدمت:</div>
+          
+          </div>
+          <div class="table">
+            <div class="item-1">سنوات خدمت واقعی:</div>
+          <div class="item-1">سنوات ارفاقی:</div>
+          <div class="item-1">سنوات بازنشتگی:</div>
+     
+          </div>
+          <div class="table">
+          <div class="item-1">گروه:</div>
+          <div class="item-1">مرتبه:</div>
+          <div class="item-1">مدرک تحصیلی:</div>
+          
+          </div>
+          <div class="table">
+          <div class="item-1">نوع حکم:</div>
+          <div class="item-1">عنوان شغل:</div>
+          <div class="item-1">تاریخ فوت:</div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <div class="main">  
+          <div class="table">
+            <div class="item2 center ">مشخصات افراد تحت تکفل</div>
+          </div>
+          <div class="table">  
+              <div class="item2">ردیف</div>  
+              <div class="item2">کد ملی</div>  
+              <div class="item2">نام</div>  
+              <div class="item2">نام خانوادگی</div>  
+              <div class="item2">نام پدر</div>  
+              <div class="item2">نسبت</div>  
+              <div class="item2">تاریخ تولد</div>  
+          </div>  
+                    <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+          <div class="table">  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+              <div class="item3"></div>  
+          </div>  
+      </div>
+      <br>
+      <br>   
+      <div class="table1">
+        <div class="section right1">
+         <p>شرح حکم</p>
+        
+        </div>
+        <div class="section section1 left1">
+          <table>
+            <tr>
+              <td>آیتم های حکم</td>
+            </tr>
+            <tr>
+              <td>حقوق مبنا</td>
+            </tr>
+            <tr>
+              <td>بازنشستگی تکمیلی</td>
+            </tr>
+            <tr>
+              <td>عائله مندی</td>
+            </tr>
+            <tr>
+              <td>حق اولاد</td>
+            </tr>
+            <div>
+            <tr>
+              <td class="total">جمع کل:</td>
+            </tr>
+            </div>
+         </table>
+         </div>
+      </div>
+      <br>
+      <br>
+
+         <div class="footer">
+         <div class="table2">
+         <div class="item4">تاریخ اجرا:</div>
+         <div class="item4">تاریخ صدور:</div>
+         <div class="item4">شماره صدور:</div>
+         </div>
+         <div class="table2">
+          <div class="item4 item5" >عضو هیات مدیره و مدیر عامل</div>
+         </div>
+         </div>
+        
+         <div class="dotted"></div>
+         
+         <div class="footer1">
+          <p>1-  فرزندان اناث بعد از سن 20 سالگی میبایست هر سال یکبار با در دست داشتن اصل شناسنامه خود به اداره بازنشتگی مراجعه نمایند.</p>
+          <p>2- فرزندان ذکور بعد از سن 20 سالگی و تا پایان 25 سالگی در صورت اشتغال به تحصیل میبایست در هر ترم گواهی دانشجویی معتبر ارائه نمایند.</p>
+          <p>3- تک وظیفه بگیران لازم است هر سال یکبار با در دست داشتن اصل شناسنامه خود به اداره بازنشتگی مراجعه نمایند.</p>
+         </div>
+     
+     
+
+</body>
+</html>
